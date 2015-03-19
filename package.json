@@ -1,0 +1,35 @@
+{
+	"name": "packetizer-json-merge",
+	"version": "0.0.0",
+	"author": {
+		"name": "Alexander Kuznetsov",
+		"email": "alexander@kuznetsov.by",
+		"url": "http://kuznetsov.by/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shkuznetsov/packetizer-json-merge.git"
+	},
+	"homepage": "https://github.com/shkuznetsov/packetizer-json-merge",
+	"keywords": [
+		"packetizer",
+		"hook",
+		"json",
+		"merge"
+	],
+	"dependencies": {
+		"lodash": "~3.3",
+		"promise": "~6.1",
+		"mkpath": "~0.1",
+		"vinyl-fs": "~1.0"
+	},
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+	"readmeFilename": "README.md",
+	"bugs": {
+		"url": "https://github.com/shkuznetsov/packetizer-json-merge/issues"
+	}
+}
